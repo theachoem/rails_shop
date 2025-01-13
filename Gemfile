@@ -76,4 +76,4 @@ group :test do
   gem "factory_bot_rails"
 end
 
-gem "tailwindcss-rails", "~> 3.0"
+gem "tailwindcss-rails", "~> 3.2"
